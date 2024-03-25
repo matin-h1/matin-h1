@@ -5,6 +5,8 @@
 
 <a href="https://github.com/matin-h1/Vulnerability-scanning-and-assessment-">Vulnerability Scanning and Assessment</a>
 
+<a href="https://github.com/matin-h1/Security-Hardening-">Security Hardening</a>
+
 <h2>📺 Certifications </h2>
 
 - [Comptia Network+](https://www.youtube.com/watch?v=4ILZNs0D1P8)
