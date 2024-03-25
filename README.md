@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 <a href="https://github.com/matin-h1/Network-Security-Assessment">Network Security Assessment</a>
 
-<a href="https://github.com/matin-h1/Network-Security-Assessment">Vulnerability Scanning and Assessment</a>
+<a href="https://github.com/matin-h1/Vulnerability-scanning-and-assessment-">Vulnerability Scanning and Assessment</a>
 
 <h2>📺 Certifications </h2>
 
